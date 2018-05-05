@@ -8,6 +8,6 @@ Deploy JAVA App on Heroku.
 4. Deploy it on Heroku.
 
 
-Many browsers does not support Applet Now.
+Many browsers does not support Java Applet Now.
 You need to install Firefox 42.0 32-bit addition & JAVA 32-bit from java.com.
 Then Add the URL that contains the applet in Java Settings in Control Panel.
