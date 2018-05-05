@@ -6,3 +6,8 @@ Deploy JAVA App on Heroku.
 2. Import the project and click on clean & build.
 3. Replace Calc2.jar file inside web folder of Java WebApp with the generated JAR file.
 4. Deploy it on Heroku.
+
+
+Many browsers does not support Applet Now.
+You need to install Firefox 42.0 32-bit addition & JAVA 32-bit from java.com.
+Then Add the URL that contains the applet in Java Settings in Control Panel.
